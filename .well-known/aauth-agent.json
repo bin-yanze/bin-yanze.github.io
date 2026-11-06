@@ -1,0 +1,6 @@
+{
+  "issuer": "https://bin-yanze.github.io",
+  "jwks_uri": "https://bin-yanze.github.io/.well-known/jwks.json",
+  "client_name": "bin-yanze",
+  "logo_uri": "https://avatars.githubusercontent.com/u/153872805?v=4"
+}
